@@ -15,7 +15,7 @@ Usage
 
 `./get_un_number.pl <UN Number>`
 
-<UN Number> may be any 4 digit valid UN Number.
+`<UN Number>` may be any 4 digit valid UN Number.
 
 License
 -------
